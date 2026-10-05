@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sport — Sog‘lom Hayot Garovi",
+  "description": "Futbol, Basketbol, Suzish va Taekvondo bo\u0027yicha interaktiv mashg\u0027ulotlar, taymer va sog\u0027lom hayot bo\u0027yicha zamonaviy platforma",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
